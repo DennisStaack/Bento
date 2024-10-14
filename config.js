@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Moodle',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://moodle.lmu.de/',
 		},
 		{
 			id: '4',
