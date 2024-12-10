@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Discord',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://www.discord.com/',
 		},
 		{
 			id: '3',
